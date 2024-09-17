@@ -7,7 +7,7 @@ Features:
 -> Simple, user-friendly interface
 
 Live Demo:
-You can view the live demo of the Simple Calculator [here].
+You can view the live demo of the Simple Calculator [here](https://balajisatishkulkarni.github.io/Simple_Calculator/).
 
 Usage:
 > Open the calculator in your browser.
@@ -38,6 +38,5 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
-For any questions or suggestions, feel free to reach out to your-email@example.com.
+
 
